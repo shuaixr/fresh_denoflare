@@ -1,0 +1,15 @@
+{
+  "$schema": "https://raw.githubusercontent.com/skymethod/denoflare/v0.5.11/common/config.schema.json",
+  "scripts": {
+    "fresh": {
+      "path": "serve.ts",
+      "localPort": 8000
+    }
+  },
+  "profiles": {
+    "myprofile": {
+      "accountId": "894df3ccce56a40bcec57d07cfae9c7f",
+      "apiToken": "2wmhA5EVTbKqrXue2vfY8gKIBRr17g7ek7KsLMRd"
+    }
+  }
+}
